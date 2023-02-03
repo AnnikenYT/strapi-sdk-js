@@ -10,6 +10,8 @@
 
 > Thanks this SDK you can trigger your [Strapi](https://strapi.io) API in your **Javascript**/**Typescript** project.
 
+**Note: This is a fork of [Stun3r's strapi-sdk-js](https://github.com/stun3r/strapi-sdk-js).**
+
 - [✨ &nbsp;Release Notes](https://github.com/stun3r/strapi-generate-types/releases)
 - [📚 &nbsp;Documentation](https://strapi-sdk-js.netlify.app)
 
