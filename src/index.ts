@@ -1,4 +1,4 @@
-import { Strapi } from "./lib/strapi";
+import { Strapi } from './lib/strapi';
 
 export type {
   PaginationByPage,
@@ -17,8 +17,9 @@ export type {
   StrapiRegistrationData,
   StrapiRequestParams,
   StrapiResetPasswordData,
+  StrapiChangePasswordData,
   StrapiResponse,
-  StrapiUser,
-} from "./lib/types";
+  StrapiUser
+} from './lib/types';
 
 export default Strapi;

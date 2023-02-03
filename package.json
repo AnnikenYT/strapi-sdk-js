@@ -1,7 +1,7 @@
 {
-  "name": "strapi-sdk-js",
-  "version": "2.2.0",
-  "description": "📦 Javascript SDK for your Strapi API",
+  "name": "@anniken/strapi-sdk-js",
+  "version": "2.3.0",
+  "description": "Fork of Stun3R's 📦 Javascript SDK for your Strapi API",
   "keywords": [
     "strapi",
     "strapi-sdk",
@@ -16,19 +16,24 @@
   ],
   "homepage": "https://strapi-sdk-js.netlify.app",
   "bugs": {
-    "url": "https://github.com/Stun3R/strapi-sdk-js/issues"
+    "url": "https://github.com/AnnikenYT/strapi-sdk-js/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Stun3R/strapi-sdk-js.git"
+    "url": "git@github.com:AnnikenYT/strapi-sdk-js.git"
   },
   "license": "MIT",
   "author": {
-    "name": "Thibaut DAVID",
-    "email": "thibautdavid@icloud.com",
-    "url": "https://thibautdavid.com"
+    "name": "AnnikenYT",
+    "email": "anniken@mooonshine.net",
+    "url": "https://anniken.codes"
   },
   "maintainers": [
+    {
+      "name": "AnnikenYT",
+      "email": "anniken@mooonshine.net",
+      "url": "https://anniken.codes"
+    },
     {
       "name": "Thibaut DAVID",
       "email": "thibautdavid@icloud.com",
