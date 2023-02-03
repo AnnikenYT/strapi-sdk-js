@@ -1,3 +1,17 @@
+# [2.4.0](https://github.com/AnnikenYT/strapi-sdk-js/compare/v2.2.0...v2.4.0) (2023-02-03)
+
+
+### Bug Fixes
+
+* added tests for changePassword ([21412cc](https://github.com/AnnikenYT/strapi-sdk-js/commit/21412ccb4a5f48b2fd685713ded60256be473af7))
+* Finished work on change password function ([ded5abb](https://github.com/AnnikenYT/strapi-sdk-js/commit/ded5abb6f3453b201ae05e7f86026b2f86f28e6b))
+
+
+### Features
+
+* added change-password request added in strapi v. 4.3.3 ([37657af](https://github.com/AnnikenYT/strapi-sdk-js/commit/37657af87434b5947e7384db17de44f2b93c7083))
+* setup package.json for seperate package ([91226b2](https://github.com/AnnikenYT/strapi-sdk-js/commit/91226b27a927545d742eb41e44405a41806ea13b))
+
 # [2.2.0](https://github.com/Stun3R/strapi-sdk-js/compare/v2.1.5...v2.2.0) (2022-02-17)
 
 ## [2.1.5](https://github.com/Stun3R/strapi-sdk-js/compare/v2.1.4...v2.1.5) (2022-01-17)
